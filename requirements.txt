@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-tensorflow-cpu==2.10.0
+tensorflow-cpu==2.12.1
 numpy<2.0
 numpy
 scikit-image
