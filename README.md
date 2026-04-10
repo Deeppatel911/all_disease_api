@@ -60,6 +60,7 @@ DenseNet121 is used in the deployed inference pipeline.
 
 ## Project Structure
 all_disease_api/
+
 ├── app/  
 │   ├── main.py  
 │   ├── model/  
