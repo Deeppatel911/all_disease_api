@@ -1,6 +1,7 @@
 fastapi
 uvicorn
-tensorflow==2.12
+tensorflow-cpu==2.10.0
 numpy
 scikit-image
 python-multipart
+pillow
